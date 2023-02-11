@@ -1,0 +1,13 @@
+body{
+    background-color: lightskyblue;
+    font: 100%verdana;
+    text-align: center;
+}
+
+.input{
+    color: red;
+}
+
+.start{
+    border: dashed, white;
+}
